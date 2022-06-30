@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="card border-info"
+  >
+    <div
+      card-body={true}
+      className="card-header"
+      mb-0={true}
+    >
+      About Me
+    </div>
+    <div
+      className="card-body"
+    >
+      <p
+        className="card-text"
+      >
+        GitHub Username: 
+      </p>
+      <p
+        className="card-text"
+      >
+        My photo
+      </p>
+      <p
+        className="card-text"
+      >
+        Blurn about me
+      </p>
+    </div>
+    <img
+      alt="hotsprings"
+      className="card-img-bottom"
+      src="hotsprings.jpg"
+      style={
+        Object {
+          "margin": "0 auto",
+          "width": "50%",
+        }
+      }
+    />
+  </div>
+</div>
+`;
