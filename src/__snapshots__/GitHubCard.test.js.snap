@@ -30,7 +30,7 @@ exports[`renders a snapshot 1`] = `
       <p
         className="card-text"
       >
-        Blurn about me
+        Blurb about me
       </p>
     </div>
     <img

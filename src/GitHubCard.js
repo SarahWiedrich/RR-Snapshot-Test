@@ -20,7 +20,7 @@ export default function About () {
                 <Card.Body>
                     <Card.Text>GitHub Username: {gitHubName}</Card.Text>
                     <Card.Text>My photo</Card.Text>
-                    <Card.Text>Blurn about me</Card.Text>
+                    <Card.Text>Blurb about me</Card.Text>
                 </Card.Body>
                 <Card.Img style={{'width': '50%', 'margin': '0 auto'}} alt='hotsprings' variant='bottom' src='hotsprings.jpg' />
             </Card>
